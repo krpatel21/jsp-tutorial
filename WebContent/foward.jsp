@@ -10,7 +10,7 @@
 Hello
 
 <%
-
+//git test
 // request.getRequestDispatcher("index.jsp").forward(request, response);
 
 response.sendRedirect("index.jsp");
